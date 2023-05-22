@@ -1,0 +1,9 @@
+git config --global user.name "ela37001"
+git config --global user.email "elavarasib2001@gmail.com"
+
+
+
+https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/manage-account-payment.html
+AWS account security policies don't permit us to discuss account-specific information unless you're signed into the account you're asking about. 
+
+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
